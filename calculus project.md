@@ -40,15 +40,21 @@
 1. **A step-by-step by-hand solution.**
 - **For Top Closed Design.**
 
-![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.001.jpeg)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.002.jpeg)
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/14e19ca5-5cff-4496-b41a-593f794ad496)
 
-`        `![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.003.jpeg)
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/1490b363-39a6-4822-b761-e5b06bb3c130)
+
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/09d60308-2fe1-40a2-a78d-c7f6bf0716cc)
+
 
 - **For Top Open Design.**
 
-`          `![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.004.jpeg)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.005.png)
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/3ebc01aa-7e55-4562-bbb0-fbace4239349)
 
-![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.006.jpeg)
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/38c0a438-c07b-4b31-88eb-494f9b81949c)
+
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/b5d246ca-b3e5-43c3-ab08-043b0fd0db94)
+
 
 1. **MATLAB code with line-by-line explanation:**
 - **Code Start:**
@@ -210,13 +216,8 @@ In budget of $2M 85433 open top cans will be produced
 
 1. **Detailed results section. Present results and graphs of analytical and MATLAB solutions:![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.007.png)**
 
-**#incomplete** 
 
-
-
-
-
-
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/3f45aa69-afdc-4166-a596-f68cbc4ff1be)
 
 
 
@@ -224,37 +225,9 @@ In budget of $2M 85433 open top cans will be produced
 1. **Flowchart of the solution methodology:**
 #
 # FLOWCHART
-Now calculate second derivative 
-
-Calculate relation between H and R
-
-Calcite radius from it
-
-Simplify it 
-
-Calculate derivative of cost
-
-Calculate cost by putting values of height
-
-Apply formula of height
-
-Total cost
-
-Cost of top and side
-
-Area of circle and area of side
-![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.008.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.009.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.010.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.011.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.012.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.013.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.014.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.015.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.016.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.017.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.018.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.019.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.020.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.021.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.022.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.023.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.024.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.025.png)![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.026.png) 
 
 
-
-
-
-
-
-
-
-
-
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/bbf47c11-5c9b-4256-9b5d-073bb16bbc7c)
 
 
 
@@ -262,7 +235,8 @@ Area of circle and area of side
 
 1. **3D figure of the open top design.**
 
-`    `**![](Aspose.Words.95a93a2c-9d22-4b16-ab54-ddc857e01996.027.jpeg)**
+![image](https://github.com/smmk47/Calculus_and_Analytical_Geometry_BSCS_Semester_Project-_With_MATLAB/assets/73193530/dbcb21d4-fec1-4109-8274-1333686176e7)
+
 
 1. **Conclusions**.
 
